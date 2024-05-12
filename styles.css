@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(247, 171, 142);
+}
+h1 {
+    text-align: center;
+    margin: 20px;
+    font-size: 3.5rem;
+}
+ul {
+    
+}
